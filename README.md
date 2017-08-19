@@ -27,3 +27,8 @@ Added LXC Web Panel
 Forked & Included Playlist with GStreamer and Liquidsoap
 For more info please email :  me@karthik.sg
 
+First UAT - User Acceptance Test has been conducted @ Pollachi
+Veerathamilatchi Sengodi Nenaivendal @ Sandaipettai Thidal, Pollachi on 19 August 2017
+#3146 Viewed Simultaneously
+Streamed with 16 GB Ram, 500 GB SSD, Ubuntu 16.04 LTS Server with NTK RTMP Server Application Installed. (this application)
+Acknowledged by Packiarasan Sethuramalingam, Thamizh Prabakaran, Easwaran Lancha Olippu, Aravindh Udumalpet, Thangamanikandan Udumalpet.
