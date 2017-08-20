@@ -1,4 +1,8 @@
 # ntkrtmpserver
+
+![Alt text](http://https://github.com/karthikindia/ntkrtmpserver/blob/master/flowdiagram.png "Flow Diagram")
+![Alt text](http://full/path/to/img.jpg "Optional title")
+
 Naam Tamilar RTMP Server
 
 This project updated as open source for future use of Naam Tamilar Political Party.
