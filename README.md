@@ -1,7 +1,7 @@
 # ntkrtmpserver
 
-![Alt text](http://https://github.com/karthikindia/ntkrtmpserver/blob/master/flowdiagram.png "Flow Diagram")
-![Alt text](http://full/path/to/img.jpg "Optional title")
+(http://https://github.com/karthikindia/ntkrtmpserver/blob/master/flowdiagram.png "Flow Diagram")
+
 
 Naam Tamilar RTMP Server
 
