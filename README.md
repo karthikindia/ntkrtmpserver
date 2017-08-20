@@ -1,6 +1,6 @@
 # ntkrtmpserver
 
-(https://github.com/karthikindia/ntkrtmpserver/blob/master/flowdiagram.png)
+![](https://github.com/karthikindia/ntkrtmpserver/blob/master/flowdiagram.png)
 
 
 Naam Tamilar RTMP Server
