@@ -1,9 +1,11 @@
-# ntkrtmpserver
+
+
+# Naam Tamilar RTMP Server - dedicated to [Naam Tamilar Web TV](http://tv.naamtamilar.org)
 
 ![](https://github.com/karthikindia/ntkrtmpserver/blob/master/flowdiagram.png)
 
 
-Naam Tamilar RTMP Server
+
 
 This project updated as open source for future use of Naam Tamilar Political Party.
 To contribute to the party and in some case if there is any possibilities if i cannot support them for long term.
