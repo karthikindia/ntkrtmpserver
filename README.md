@@ -3,7 +3,9 @@
 # Naam Tamilar RTMP Server
 Dedicated to [Naam Tamilar Web TV](http://tv.naamtamilar.org)
 
-![](https://github.com/karthikindia/ntkrtmpserver/blob/master/flowdiagram.png)
+![Flow Diagram](https://github.com/karthikindia/ntkrtmpserver/blob/master/flowdiagram.png)
+
+![Architecture](https://github.com/karthikindia/ntkrtmpserver/blob/master/architecture.png)
 
 
 
