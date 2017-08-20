@@ -1,6 +1,7 @@
 
 
-# Naam Tamilar RTMP Server - dedicated to [Naam Tamilar Web TV](http://tv.naamtamilar.org)
+# Naam Tamilar RTMP Server
+Dedicated to [Naam Tamilar Web TV](http://tv.naamtamilar.org)
 
 ![](https://github.com/karthikindia/ntkrtmpserver/blob/master/flowdiagram.png)
 
