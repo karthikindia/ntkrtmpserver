@@ -40,3 +40,37 @@ Veerathamilatchi Sengodi Nenaivendal @ Sandaipettai Thidal, Pollachi on 19 Augus
 **3146 Viewed Simultaneously**
 Streamed with 16 GB Ram, 500 GB SSD, Ubuntu 16.04 LTS Server with NTK RTMP Server Application Installed. (this application)
 Acknowledged by Packiarasan Sethuramalingam, Thamizh Prabakaran, Easwaran Ayya Tirupur, Aravindh Udumalpet, Thangamanikandan Udumalpet.
+
+![NTK Web TV](https://github.com/karthikindia/ntkrtmpserver/blob/master/Screenshot%20from%202017-08-20%2003-06-38.png)
+
+![NTK Web TV](https://github.com/karthikindia/ntkrtmpserver/blob/master/acknowledgements.png)
+
+![NTK Web TV](https://github.com/karthikindia/ntkrtmpserver/blob/master/architecture.png)
+
+![NTK Web TV](https://github.com/karthikindia/ntkrtmpserver/blob/master/screenshot03.png)
+
+![NTK Web TV](https://github.com/karthikindia/ntkrtmpserver/blob/master/screenshot02.png)
+
+![NTK Web TV](https://github.com/karthikindia/ntkrtmpserver/blob/master/screenshot01s.png)
+
+![NTK Web TV](https://github.com/karthikindia/ntkrtmpserver/blob/master/rtmpntk.png)
+
+![NTK Web TV](https://github.com/karthikindia/ntkrtmpserver/blob/master/nginxrtmpgui.png)
+
+![NTK Web TV](https://github.com/karthikindia/ntkrtmpserver/blob/master/load.jpg)
+
+![NTK Web TV](https://github.com/karthikindia/ntkrtmpserver/blob/master/diagram.jpg)
+
+![NTK Web TV](https://github.com/karthikindia/ntkrtmpserver/blob/master/configure.png)
+
+![NTK Web TV](https://github.com/karthikindia/ntkrtmpserver/blob/master/commands.jpg)
+
+
+
+
+
+
+
+
+
+
